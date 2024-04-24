@@ -10,26 +10,6 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://twitter.com/chenyufish/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@chenyufish"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=chenyufish&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
-
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-
 </div>
 
 #  🙋 Hello
@@ -40,76 +20,9 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/jobs.png" />
-
 <p>&emsp;&emsp;嗨，你好，我是fishman。热爱编程、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 </td></tr>
-
-<tr><td>
-
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=chenyufish&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=chenyufish&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chenyufish&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                503 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-🌆 Daytime                547 commits         ████████░░░░░░░░░░░░░░░░░   30.59 % 
-🌃 Evening                445 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-🌙 Night                  293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Tuesday                  142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Wednesday                270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Friday                   563 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
-Saturday                 149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Sunday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               7 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.45 % 
-JavaScript               2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Vue.js                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 22 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      16 hrs 22 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 29/03/2024 01:15:34 UTC
-<!--END_SECTION:waka-->
 
 </td></tr>
 
@@ -163,14 +76,6 @@ Mac                      16 hrs 22 mins      ███████████�
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chenyufish&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chenyufish&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-</table>
-
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -218,62 +123,3 @@ Mac                      16 hrs 22 mins      ███████████�
 <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/vue.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/github.webp">
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/hr.gif" />
-
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
-
-<!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/githubgif.gif" />
-
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
-
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/icon.png" /></div>
-</div>
