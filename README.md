@@ -67,6 +67,7 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/hr.gif" />
 
 <div align="center" >
+[![GitHub Streak](https://streak-stats.demolab.com?user=chenyufish&theme=dark&locale=zh_Hans)](https://git.io/streak-stats)
 
 <!--  skill badge 技能徽章 -->
 
@@ -100,11 +101,3 @@
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/github.webp">
