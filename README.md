@@ -16,16 +16,13 @@
 
 <table>
   
-<tr><td>
+
 
 ### 🤺 About Me
 
 <p>&emsp;&emsp;嗨，你好，我是fishman。热爱编程、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 </td></tr>
-
-</td></tr>
-
 </table>
 
 
@@ -52,22 +49,22 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/hr.gif" />
 
 <div align="center" >
-
   
-<!-- GitHub 奖杯🏆 -->
-<div><img src="https://github-profile-trophy.vercel.app/?username=chenyufish&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
-
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chenyufish&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chenyufish&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
-</div>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chenyufish&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
+<!-- GitHub 奖杯🏆 -->
+<div><img src="https://github-profile-trophy.vercel.app/?username=chenyufish&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+
+</div>
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/chenyufish/chenyufish/assets/images/hr.gif" />
 
 <div align="center" >
-[![GitHub Streak](https://streak-stats.demolab.com?user=chenyufish&theme=dark&locale=zh_Hans)](https://git.io/streak-stats)
 
 <!--  skill badge 技能徽章 -->
 
@@ -99,5 +96,10 @@
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+
+
+
+
+ 
 
